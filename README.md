@@ -12,17 +12,17 @@
     <br><sub>Starts at <b>10:24</b></sub>
   </p>
 
-<h3 align="center">Isometric View</h3>
+<h2 align="center">Isometric View</h2>
   <p align="center">
     <img src="views/Iso_View.png" alt="Iso view" width="600">
   </p>
 
-<h4 align="center">Front View</h4>
+<h2 align="center">Front View</h2>
   <p align="center">
     <img src="views/Front_View.png" alt="Front view" width="600">
   </p>
 
-<h5 align="center">Schematic</h5>
+<h2 align="center">Schematic</h2>
   <p align="center">
     <img src="views/Wiring_Schematic.jpg" alt="Schematic" width="600">
   </p>
