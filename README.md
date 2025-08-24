@@ -24,5 +24,5 @@
 
 <h5 align="center">Schematic</h5>
   <p align="center">
-    <img src="views/Wiring_Schematic.png" alt="Schematic" width="600">
+    <img src="views/Wiring_Schematic.jpg" alt="Schematic" width="600">
   </p>
