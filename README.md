@@ -5,7 +5,7 @@
 
 ### Isometric View
 <p align="center">
-  <img src="views/front-view.png" alt="Front view" width="600">
+  <img src="views/Front_View.png" alt="Front view" width="600">
 </p>
 
 ### Front View
