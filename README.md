@@ -12,14 +12,19 @@
     <br><sub>Starts at <b>10:24</b></sub>
   </p>
 
+<h2 align="center">Front View</h2>
+  <p align="center">
+    <img src="views/Front_View.png" alt="Front view" width="600">
+  </p>
+  
 <h2 align="center">Isometric View</h2>
   <p align="center">
     <img src="views/Iso_View.png" alt="Iso view" width="600">
   </p>
 
-<h2 align="center">Front View</h2>
+  <h2 align="center">Front View</h2>
   <p align="center">
-    <img src="views/Front_View.png" alt="Front view" width="600">
+    <img src="views/uncovered.jpg" alt="Uncovered view" width="600">
   </p>
 
 <h2 align="center">Schematic</h2>
