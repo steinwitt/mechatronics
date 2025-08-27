@@ -22,7 +22,7 @@
     <img src="views/Iso_View.png" alt="Iso view" width="600">
   </p>
 
-  <h2 align="center">Front View</h2>
+  <h2 align="center">Uncovered View</h2>
   <p align="center">
     <img src="views/uncovered.jpg" alt="Uncovered view" width="600">
   </p>
